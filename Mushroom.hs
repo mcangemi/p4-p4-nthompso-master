@@ -114,7 +114,7 @@ numCorrect att lobs =
 
 -- Define an algebraic data type for decision trees.
 data DTree = UnfinishedTree deriving Show
-
+--test
 -- Given a list of attributes and a list of observations, build a decision tree.
 --  * If all the observations have the same edibility, you can safely make an end node: there is no
 --    need to further analyze a mushroom.  
